@@ -13,6 +13,8 @@ Copyright (c) 2020, Geemi Wellawatte
 
 This a repo under development.
 This package requires -numpy -matplotlib
+
+Dependencies: matplotlib
 #### Acknowledgements
  
 Project based on the 
