@@ -8,8 +8,9 @@ from .functions import *
 from .measure  import calculate_distance, calculate_angle
 from .molecule import build_bond_list
 from .visualize import draw_molecule, bond_histogram
+from .pdb import open_pdb
+from .xyz import open_xyz, write_xyz
 
-import molecool.io
 # Handle versioneer
 from ._version import get_versions
 versions = get_versions()

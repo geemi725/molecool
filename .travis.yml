@@ -2,6 +2,11 @@ language: python
 
 # Run jobs on container-based infrastructure, can be overridden per job
 
+#limits Travis CI to events on the master branch  
+branches:
+  only:
+  - master
+
 matrix:
   include:
     # Extra includes for OSX since python language is not available by default on OSX

@@ -3,6 +3,7 @@ IO files for xyz
 """
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
 def open_xyz(file_location):
 

@@ -1,3 +1,9 @@
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+
+from mpl_toolkits.mplot3d import Axes3D
+
 def open_pdb(f_loc):
     # This function reads in a pdb file and returns the atom names and coordinates.
     with open(f_loc) as f:
