@@ -4,7 +4,10 @@ dependencies:
     # Base depends
   - python
   - pip
+  - numpy
+  - matplotlib  
 
+    
     # Testing
   - pytest
   - pytest-cov
