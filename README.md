@@ -1,8 +1,8 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/molecool.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/molecool)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
+[![Travis Build Status](https://travis-ci.com/geemi725/molecool.svg?branch=master)](https://travis-ci.com/geemi725/molecool)
+[![codecov](https://codecov.io/gh/geemi725/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/geemi725/molecool/branch/master)
 
 
 A python package for analysing and visualizing molecular structures for MSF bootcamp
